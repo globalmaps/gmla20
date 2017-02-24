@@ -9,7 +9,7 @@ Credit: "Global Map of Laos ©ISCGM/ National Geographic Department Prime Minist
 
 Contact: National Geographic Department Prime Minister's Office.
 
-E-mail address: ![email](https://www.iscgm.org/gmd/images/email/laos.png)
+E-mail address: ![email](email.png)
 
 Postal address: P.O Box 2159, VIENTIANE, LAOS 
 
